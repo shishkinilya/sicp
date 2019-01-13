@@ -1,2 +1,2 @@
-# sicp
+# SICP
 My SICP solutions
